@@ -1,3 +1,5 @@
+= Note: originally forked from https://github.com/oauth-xx/oauth-ruby, but the repo was accidentally deleted and restored
+
 = Ruby OAuth
 
 == What
