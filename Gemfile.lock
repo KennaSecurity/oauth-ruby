@@ -7,7 +7,7 @@ GEM
     activesupport (2.3.14)
     addressable (2.2.7)
     crack (0.3.1)
-    curb (0.8.0)
+    curb (0.9.10)
     em-http-request (0.2.11)
       addressable (>= 2.0.0)
       eventmachine (>= 0.12.9)
